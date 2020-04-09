@@ -114,8 +114,7 @@ Collecting and Using Your Personal Data
 Types of Data Collected  
 -----------------------
 
-Personal Data  
-~~~~~~~~~~~~~
+#### Personal Data  
 
 While using Our Service, We may ask You to provide Us with certain personally
 identifiable information that can be used to contact or identify You.
@@ -125,8 +124,7 @@ Personally identifiable information may include, but is not limited to:
   * First name and last name
   * Usage Data
 
-Usage Data  
-~~~~~~~~~~
+Usage Data
 
 Usage Data is collected automatically when using the Service.
 
@@ -144,8 +142,7 @@ browser You use, unique device identifiers and other diagnostic data.
 We may also collect information that Your browser sends whenever You visit our
 Service or when You access the Service by or through a mobile device.
 
-Information Collected while Using the Application  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#### Information Collected while Using the Application  
 
 While using Our Application, in order to provide features of Our Application,
 We may collect, with your prior permission:
@@ -159,8 +156,7 @@ You can enable or disable access to this information at any time, through Your
 Device settings. You can also enable or disable location services when You use
 Our Service at any time, through Your Device settings.
 
-Use of Your Personal Data  
--------------------------
+#### Use of Your Personal Data
 
 The Company may use Personal Data for the following purposes:
 
@@ -249,22 +245,21 @@ other personal information.
 Disclosure of Your Personal Data  
 --------------------------------
 
-Business Transactions  
-~~~~~~~~~~~~~~~~~~~~~
+#### Business Transactions  
+
 
 If the Company is involved in a merger, acquisition or asset sale, Your
 Personal Data may be transferred. We will provide notice before Your Personal
 Data is transferred and becomes subject to a different Privacy Policy.
 
-Law enforcement  
-~~~~~~~~~~~~~~~
+#### Law enforcement  
+
 
 Under certain circumstances, the Company may be required to disclose Your
 Personal Data if required to do so by law or in response to valid requests by
 public authorities (e.g. a court or a government agency).
 
-Other legal requirements  
-~~~~~~~~~~~~~~~~~~~~~~~~
+#### Other legal requirements 
 
 The Company may disclose Your Personal Data in the good faith belief that such
 action is necessary to:
@@ -472,8 +467,8 @@ law, you may do so by following the instructions below.
 Please note that any opt out is specific to the browser You use. You may need
 to opt out on every browser that you use.
 
-Website  
-~~~~~~~
+#### Website  
+
 
 You can opt out of receiving ads that are personalized as served by our
 Service Providers by following our instructions presented on the Service:
@@ -487,8 +482,8 @@ The opt out will place a cookie on Your computer that is unique to the browser
 You use to opt out. If you change browsers or delete the cookies saved by your
 browser, you will need to opt out again.
 
-Mobile Devices  
-~~~~~~~~~~~~~~
+#### Mobile Devices  
+
 
 Your mobile device may give you the ability to opt out of the use of
 information about the apps you use in order to serve you ads that are targeted
