@@ -38,3 +38,7 @@ As time passes, bubbles that don't pop can be expanded as new users are added to
 ## Word of warning
 
 Bubbles is a tool to help resume normal social interactions, **when and where it is allowed**. It doesn't exempt it's users from strictly adhering to all measures imposed by authorities.
+
+## Legal documents
+
+[Privacy policy](privacy.md)
