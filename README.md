@@ -41,4 +41,4 @@ Bubbles is a tool to help resume normal social interactions, **when and where it
 
 ## Legal documents
 
-[Privacy policy](PRIVACY.md)
+[Privacy policy](privacy.md)
