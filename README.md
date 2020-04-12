@@ -1,6 +1,6 @@
 # Bubbles
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=www.bubblesapp.org" alt="Hits">
 
 <table border="0">
   <tr>
