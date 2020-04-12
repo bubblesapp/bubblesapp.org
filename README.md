@@ -1,5 +1,9 @@
 # Bubbles
 
+<p align="center">
+<img align="center" src="https://github.com/bubblesapp/mobile/raw/master/fastlane/metadata/app_icon_512x512.png" width="100" height="100" alt="Bubbles App Icon">
+</p>
+
 **Bubbles helps you resume normal social interactions after a health crisis.**
 
 In the context of a health crisis such as the COVID-19 pandemic, governments asked citizens to practice social distancing in order to mitigate virus spread and avoid overflooding the healthcare system. After the crisis peaked, it is everyone's aspiration to resume normal social interactions. Bubbles helps users do so in a considerate, progressive and coordinated way, to lower the risk of starting secondary waves of contamination.
