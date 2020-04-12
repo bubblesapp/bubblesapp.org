@@ -6,7 +6,7 @@
       <img src="https://github.com/bubblesapp/mobile/raw/master/fastlane/metadata/ios/screenshots/en-US/iPhone%2011-Bubble.png" width="200" style="padding: 10;" />
     </td>
     <td>
-      <img src="https://github.com/bubblesapp/mobile/raw/master/fastlane/metadata/ios/screenshots/en-US/iPhone%2011-Invite.png" width="200" style="padding: 10;" />
+      <img src="https://github.com/bubblesapp/mobile/raw/master/fastlane/metadata/ios/screenshots/en-US/iPhone%2011-NewInvite.png" width="200" style="padding: 10;" />
     </td>
     <td>
       <img src="https://github.com/bubblesapp/mobile/raw/master/fastlane/metadata/ios/screenshots/en-US/iPhone%2011-Popped.png" width="200" style="padding: 10;" />
