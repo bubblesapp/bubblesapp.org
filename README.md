@@ -18,6 +18,8 @@ In the context of a health crisis such as the COVID-19 pandemic, governments ask
 >## Project status
 >
 >Bubbles is a proof-of-concept project to offer an alternative to GPS and/or Bluetooth tracking. It puts users in control of getting their social lives back and relies on a community of people caring for each other. The new guidelines for app reviews enforced by both Apple (https://developer.apple.com/news/?id=03142020a) and Google (https://android-developers.googleblog.com/2020/04/google-play-updates-and-information.html) prevent this app from being released without the endorsement of an official government entity or public health organization. If you are part of such an organization and would like more information on Bubbles, please reach out at hello@bubblesapp.org. If you think Bubbles could help you safely get your social life back, just share the link to our homepage with your friends. This will increment the hits counter, show there is interest, and help us get the app released. Thanks!
+>
+>
 ><img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=www.bubblesapp.org" alt="Hits">
 
 ## Concept
