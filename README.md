@@ -28,7 +28,7 @@ In the context of a health crisis such as the COVID-19 pandemic, governments ask
 ><img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=www.bubblesapp.org" alt="Hits">
 
 <p align="center">
-<img align="center" style="border-radius:50%" src="https://github.com/bubblesapp/mobile/raw/master/fastlane/metadata/app_icon_512x512.png" width="100" height="auto" alt="Bubbles App Icon">
+<img align="center" style="border-radius:10px" src="https://github.com/bubblesapp/mobile/raw/master/fastlane/metadata/app_icon_512x512.png" width="100" height="auto" alt="Bubbles App Icon">
 </p>
 
 ## Concept
