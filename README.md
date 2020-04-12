@@ -3,10 +3,13 @@
 <table border="0">
   <tr>
     <td>
-      <img src="/images/mybubble.png" width="200" style="padding: 10;" />
+      <img src="https://github.com/bubblesapp/mobile/raw/master/fastlane/metadata/ios/screenshots/en-US/iPhone%2011-Bubble.png" width="200" style="padding: 10;" />
     </td>
     <td>
-      <img src="/images/mybubble_popped.png" width="200" />
+      <img src="https://github.com/bubblesapp/mobile/raw/master/fastlane/metadata/ios/screenshots/en-US/iPhone%2011-Invite.png" width="200" style="padding: 10;" />
+    </td>
+    <td>
+      <img src="https://github.com/bubblesapp/mobile/raw/master/fastlane/metadata/ios/screenshots/en-US/iPhone%2011-Popped.png" width="200" style="padding: 10;" />
     </td>
   </tr>
 </table>
@@ -46,6 +49,6 @@ As time passes, bubbles that don't pop can be expanded as new users are added to
 
 Bubbles is a tool to help resume normal social interactions, **when and where it is allowed**. It doesn't exempt it's users from strictly adhering to all measures imposed by authorities.
 
-## Legal documents
-
-[Privacy policy](privacy.md)
+[comment]: <> ## Legal documents
+[comment]: <>
+[comment]: <> [Privacy policy](privacy.md)
