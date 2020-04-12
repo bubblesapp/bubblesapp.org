@@ -1,5 +1,9 @@
 # Bubbles
 
+**Bubbles helps you resume normal social interactions after a health crisis.**
+
+In the context of a health crisis such as the COVID-19 pandemic, governments asked citizens to practice social distancing in order to mitigate virus spread and avoid overflooding the healthcare system. After the crisis peaked, it is everyone's aspiration to resume normal social interactions. Bubbles helps users do so in a considerate, progressive and coordinated way, to lower the risk of starting secondary waves of contamination.
+
 <table border="0">
   <tr>
     <td>
@@ -13,10 +17,6 @@
     </td>
   </tr>
 </table>
-
-**Bubbles helps you resume normal social interactions after a health crisis.**
-
-In the context of a health crisis such as the COVID-19 pandemic, governments asked citizens to practice social distancing in order to mitigate virus spread and avoid overflooding the healthcare system. After the crisis peaked, it is everyone's aspiration to resume normal social interactions. Bubbles helps users do so in a considerate, progressive and coordinated way, to lower the risk of starting secondary waves of contamination.
 
 >## Project status
 >
