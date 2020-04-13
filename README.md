@@ -2,7 +2,7 @@
 
 **Bubbles helps you resume normal social interactions after a health crisis.**
 
-In the context of a health crisis such as the COVID-19 pandemic, governments asked citizens to practice social distancing in order to mitigate virus spread and avoid overflooding the healthcare system. After the crisis peaked, it is everyone's aspiration to resume normal social interactions. Bubbles helps users do so in a considerate, progressive and coordinated way, to lower the risk of starting secondary waves of contamination.
+In the context of a health crisis such as the COVID-19 pandemic, governments asked citizens to practice social distancing in order to mitigate virus spread and avoid overflooding the healthcare system. After the crisis peaked, it is everyone's aspiration to resume normal social interactions. Bubbles helps users do so in a considerate, progressive and coordinated way, to lower the risk of starting secondary waves of contamination. ***The app works without GPS or Bluetooth, leaving users in control of the data they share.***
 
 <table border="0">
   <tr>
@@ -29,7 +29,7 @@ In the context of a health crisis such as the COVID-19 pandemic, governments ask
 
 ## Concept
 
-Users create their bubble by choosing a few other users they decide to resume normal social interactions with. Everytime they meet someone from their bubble, they keep track of it in the app. If a user gets sick, he pops his bubble and the information is *anonymously* passed on to other potentially affected bubbles where users might be at risk.
+Users create their bubble by choosing a few other users they decide to resume normal social interactions with. Everytime they meet someone from their bubble, they manually log it in the app. No tracking automatic technology is involed. If a user gets sick, or believes they might have transmitted the virus, he pops his bubble. The information is *anonymously* passed on to other potentially affected bubbles where users might be at risk.
 
 ## Start safe
 
@@ -50,3 +50,7 @@ As time passes, bubbles that don't pop can be expanded as new users are added to
 ## Word of warning
 
 Bubbles is a tool to help resume normal social interactions, **when and where it is allowed**. It doesn't exempt it's users from strictly adhering to all measures imposed by authorities.
+
+## Legal documents
+
+[Privacy policy](https://bubblesapp.org/privacy.html)
